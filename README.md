@@ -1,2 +1,1 @@
-# mi-bot
-the repo for mi-bot in team work with yaswanth sbt
+![qr-to-mi-bot](https://raw.githubusercontent.com/krazykarthik2-alt/mi-bot/main/mi-bot-qr.png)
