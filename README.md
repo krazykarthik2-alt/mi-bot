@@ -1,1 +1,1 @@
-![qr-to-mi-bot](mi-bot-qr.png)
+![qr-to-mi-bot](qr.png)
